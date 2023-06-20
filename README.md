@@ -1,4 +1,4 @@
-### Hi there, I'm Samuele Ruggeri - aka [cryptosamu][website] 👋 
+### Hi there, I'm Samuele Ruggeri - aka [Samuele Ruggeri][samueleruggeri.top] 👋 
 
 [![Website](https://img.shields.io/website?label=samueleruggeri.it&style=for-the-badge&url=https%3A%2F%2Fsamueleruggeri.it)](https://samueleruggeri.it)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cryptosamu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcryptosamu&screen_name=cryptosamu)
@@ -33,7 +33,7 @@
 <br />
 <br />
 
-[website]: https://www.samueleruggeri.it/
+[website]: https://www.samueleruggeri.top
 [twitter]: https://twitter.com/samu_rugge
 [youtube]: https://www.youtube.com/channel/UCZm7rQwTRubB-X9UdEoNC5g
 [instagram]: https://instagram.com/samueleruggeri_
