@@ -1,7 +1,7 @@
 ### Hi there, I'm Samuele Ruggeri - aka [Samuele Ruggeri] 👋 
 
-[![Website](https://img.shields.io/website?label=samueleruggeri.it&style=for-the-badge&url=https%3A%2F%2Fsamueleruggeri.it)](https://samueleruggeri.top)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cryptosamu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcryptosamu&screen_name=cryptosamu)
+[![Website](https://img.shields.io/website?label=samueleruggeri.it&style=for-the-badge&url=https%3A%2F%2Fsamueleruggeri.top)](https://samueleruggeri.top)
+[![Twitter Follow](https://img.shields.io/twitter/follow/samu_ruggeri?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsamu_ruggeri&screen_name=samu_ruggeri)
 
 ## Growth Hacker - Web Developer !!
 
