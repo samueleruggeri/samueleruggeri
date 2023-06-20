@@ -1,9 +1,9 @@
 ### Hi there, I'm Samuele Ruggeri - aka [Samuele Ruggeri][samueleruggeri.top] 👋 
 
-[![Website](https://img.shields.io/website?label=samueleruggeri.it&style=for-the-badge&url=https%3A%2F%2Fsamueleruggeri.it)](https://samueleruggeri.it)
+[![Website](https://img.shields.io/website?label=samueleruggeri.it&style=for-the-badge&url=https%3A%2F%2Fsamueleruggeri.it)](https://samueleruggeri.top)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cryptosamu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcryptosamu&screen_name=cryptosamu)
 
-## I'm a SMM, Crypto advisor!!
+## Growth Hacker - Web Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cryptosamu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="samueleruggeri" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cryptosamu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="cryptosamu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cryptosamu| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -34,7 +34,7 @@
 <br />
 
 [website]: https://www.samueleruggeri.top
-[twitter]: https://twitter.com/samu_rugge
+[twitter]: https://twitter.com/samu_ruggeri
 [youtube]: https://www.youtube.com/channel/UCZm7rQwTRubB-X9UdEoNC5g
 [instagram]: https://instagram.com/samueleruggeri_
 [linkedin]: https://www.linkedin.com/in/samuele-ruggeri/
