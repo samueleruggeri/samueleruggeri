@@ -1,12 +1,4 @@
-### Hi there, I'm Samuele Ruggeri - aka [Samuele Ruggeri] 👋 
-
-### Connect with me:
-
-[<img align="left" alt="samueleruggeri" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="cryptosamu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="cryptosamu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="cryptosamu| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cryptosamu| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Hi there, I'm Samuele Ruggeri - aka [kriptosamu] 👋 
 
 <br />
 
